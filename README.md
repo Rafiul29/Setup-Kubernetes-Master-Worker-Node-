@@ -1,4 +1,4 @@
-#Setup Kubernetes Master & Worker Node 
+# Setup Kubernetes Master & Worker Node 
 ## Command for Master & Worker node
 ```
 sudo su
