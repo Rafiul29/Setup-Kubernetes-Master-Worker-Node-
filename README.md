@@ -58,7 +58,7 @@ kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documen
 ```
 
 # Configure Worker Node 
-copy the long ocde provides my Master In Node now like code given below
+copy the long code provides my Master In Node now like code given below
 ```sh
 e.g-kubeadm join 172.31.6.165:6443 --token kl9fhu.co2n90v3rxtqllrs --discovery-token-ca-cert-hash sha256:b0f8003d23dbf445..............
 ```
